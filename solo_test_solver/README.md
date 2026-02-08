@@ -1,0 +1,1 @@
+""" In these Project, I implemented the solve() function. It solves the solo test by using DFS to obtain given number of pin. For 3 pins, computer makes 45 iteration. You can use make clear command to clear bin folder, make build command to compile source code and obtain object and finally, with make run command you can execute the object."""

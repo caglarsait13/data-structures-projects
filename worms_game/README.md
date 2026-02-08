@@ -1,0 +1,1 @@
+""" In these Project, I implemented the option (2)  codeblock which is the main attack function in the skeleton code. Also, there is a example image from my terminal."""
